@@ -58,6 +58,7 @@ Service response times vary across boroughs, suggesting potential resource alloc
 Monitoring request trends allows agencies to anticipate periods of high service demand.
 # Business Questions Solved Using SQL
 The analysis used SQL queries to answer key operational questions related to municipal service performance and service demand patterns.
+- <a href="https://github.com/swiftfaisal/NYC-311-Municipal-Service-Request-Dashboard/blob/main/Nyc_311_Project.sql"> SQL Queries </a>
 ## 1️. What are the most common complaint types in NYC?
 Purpose:
 Identify the complaint categories generating the highest service demand so agencies can prioritize operational resources.
